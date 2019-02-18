@@ -1,0 +1,7 @@
+---
+applications:
+- name: multimodule-springboot-test
+  memory: 1G
+  instances: 1
+  host: multimodule-springboot-test
+  disk_quota: 1G
